@@ -24,3 +24,13 @@ Assets/
   VisualScripting	: ノードベースプログラミングを実装するスクリプト
   VRUI				:  簡単なUI
 ```
+
+## 例
+
+ネットからワールド(オブジェクト)を読み込むプログラムの例
+
+https://github.com/nananapo/AssetSystem/blob/main/Assets/AssetSystem/Unity/Test_WorldLoader.cs
+
+インスペクターで作った設定をもとにオブジェクトを生成するプログラム
+
+https://github.com/nananapo/AssetSystem/blob/main/Assets/AssetSystem/Unity/Test_WorldContextInitializer.cs
